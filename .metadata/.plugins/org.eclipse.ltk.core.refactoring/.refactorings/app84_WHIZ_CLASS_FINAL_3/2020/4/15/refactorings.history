@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Test.java&apos; to &apos;app83_WHIZ_3_30/src/app_3_whiz_final_class&apos;&#x0D;&#x0A;- Original project: &apos;app84_WHIZ_CLASS_FINAL_3&apos;&#x0D;&#x0A;- Destination element: &apos;app83_WHIZ_3_30/src/app_3_whiz_final_class&apos;&#x0D;&#x0A;- Original element: &apos;app84_WHIZ_CLASS_FINAL_3.Test.java&apos;" description="Copy compilation unit" destination="=app83_WHIZ_3_30/src&lt;app_3_whiz_final_class" element1="/src&lt;app84_WHIZ_CLASS_FINAL_3{Test.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1586699799498" units="1" version="1.0"/>
+</session>

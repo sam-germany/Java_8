@@ -1,0 +1,31 @@
+package app9914_Testing;
+
+import java.util.Arrays;
+
+public class Test {
+
+	static int x = 1;
+	
+	public static void main(String[] args) {
+
+		int x = 20;
+		
+		while(x > 0) {
+			
+			do {
+			
+				
+				x -=2;
+				System.out.println(x);
+			}while(x > 5);
+			
+			x--;
+			
+			System.out.println(x);
+			
+		}
+	
+	
+		
+	}
+}

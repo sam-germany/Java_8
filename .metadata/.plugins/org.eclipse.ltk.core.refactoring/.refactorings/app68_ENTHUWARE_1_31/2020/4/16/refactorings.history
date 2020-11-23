@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Merge.java&apos; to &apos;app9908_Concurrency_ENTHUWARE/src/app_1_31&apos;&#x0D;&#x0A;- Original project: &apos;app68_ENTHUWARE_1_31&apos;&#x0D;&#x0A;- Destination element: &apos;app9908_Concurrency_ENTHUWARE/src/app_1_31&apos;&#x0D;&#x0A;- Original element: &apos;app68_ENTHUWARE_1_31.Merge.java&apos;" description="Copy compilation unit" destination="=app9908_Concurrency_ENTHUWARE/src&lt;app_1_31" element1="/src&lt;app68_ENTHUWARE_1_31{Merge.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1586978378740" units="1" version="1.0"/>
+</session>

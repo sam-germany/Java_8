@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring clone="true" comment="Infer generic type arguments on &apos;app77_ENTHU_CLASS_D_0.17&apos;&#x0D;&#x0A;- Original project: &apos;app77_ENTHU_CLASS_D_0.17&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     app77_ENTHU_CLASS_D_0.17/src/(default package)&#x0D;&#x0A;- Assume clone() returns an instance of the receiver type&#x0D;&#x0A;- Leave unconstrained type arguments raw" description="Infer generic type arguments" element1="/src&lt;" flags="6" id="org.eclipse.jdt.ui.infer.typearguments" leave="true" stamp="1578227362464" version="1.0"/>
+</session>

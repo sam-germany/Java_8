@@ -1,0 +1,27 @@
+package app9914_Testing;
+
+import java.util.Arrays;
+
+public class Test {
+
+	
+	public static void main(String[] args) {
+
+	int y = 5;
+	
+	if( false && y++ == 11)
+		    System.out.println(y);
+	
+	else if(true || --y == 4)
+		System.out.println(y);
+	
+	else {
+		System.out.println("---");
+	}
+	
+	
+	
+	
+		
+	}
+}

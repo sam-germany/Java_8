@@ -1,0 +1,19 @@
+package app05;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import java.util.Collection;
+import java.util.Comparator;
+import java.util.List;
+
+public class Test {		
+	    public static void main(String[] args) {
+
+
+	        Stream<String> stream = Stream.of("java", "python", "c",
+	                "c++", "java", "python");
+	        Set<String> set = stream.collect(Collectors.toSet());
+	        System.out.println(set.size());
+	    }
+	}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;whiz_3_33_HashCode&apos; to &apos;app9918_INTERVIEW_Testing/src&apos;&#x0D;&#x0A;- Original project: &apos;app99_Z_WHIZ_GENERIC_ALL&apos;&#x0D;&#x0A;- Destination element: &apos;app9918_INTERVIEW_Testing/src&apos;&#x0D;&#x0A;- Original element: &apos;app99_Z_WHIZ_GENERIC_ALL/src/whiz_3_33_HashCode&apos;" description="Copy package" destination="=app9918_INTERVIEW_Testing/src" element1="/src&lt;whiz_3_33_HashCode" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1588355788317" version="1.0"/>
+</session>

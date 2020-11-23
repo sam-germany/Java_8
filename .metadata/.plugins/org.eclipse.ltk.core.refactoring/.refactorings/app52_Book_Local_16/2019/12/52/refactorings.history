@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;app52_UDEMY_Local_16.Test&apos; to &apos;_16&apos;&#x0D;&#x0A;- Original project: &apos;app52_UDEMY_Local_16&apos;&#x0D;&#x0A;- Original element: &apos;app52_UDEMY_Local_16.Test&apos;&#x0D;&#x0A;- Renamed element: &apos;app52_UDEMY_Local_16._16&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Test&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;app52_UDEMY_Local_16{Test.java[Test" matchStrategy="1" name="_16" qualified="false" references="true" similarDeclarations="false" stamp="1577446026471" textual="false" version="1.0"/>
+</session>

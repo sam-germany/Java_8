@@ -1,0 +1,46 @@
+package app28_IO_40;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
+
+public class Test implements Serializable {
+
+	private int chambers = -1;
+	private transient Double size = null;
+	private static String color;
+	
+	public Test() {
+		this.chambers = 3;
+		color = "BLUE";
+	}
+	public static void main(String[] args) throws Throwable {
+
+		try(ObjectOutputStream o = new ObjectOutputStream(new FileOutputStream("scan,txt"))){
+			
+			final Test v = new Test();
+			v.chambers = 2;
+			v.size = 10.0;
+			v.color = "RED";
+			v.writeObject(v);
+		}
+		new Test();
+		
+		try(ObjectInputStream o = new ObjectInputStream(new FileInputStream("scan.txt"))){
+			Test v = (Test)o.readObject();
+			System.out.println(v.chambers +" , "+ v.size + ", " + v.color);
+		}
+		
+		
+		
+	}
+	private void writeObject(Test v) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
