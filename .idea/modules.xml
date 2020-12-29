@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_8.iml" filepath="$PROJECT_DIR$/.idea/Java_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app11_Serialization_Deserialization/app11_Serialization_Deserialization.iml" filepath="$PROJECT_DIR$/app11_Serialization_Deserialization/app11_Serialization_Deserialization.iml" />
     </modules>
   </component>
 </project>
